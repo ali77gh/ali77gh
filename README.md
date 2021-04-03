@@ -1,16 +1,33 @@
-### Hi there 👋
+# basic info
 
-<!--
-**ali77gh/ali77gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a random android developer that is also intrested with back-end (node js) <br>
+and also free software fan and linux user.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact
+[linkedin](https://www.linkedin.com/in/ali-ghahremani-19812016b/) <br>
+[virgool](https://virgool.io/@ali77gh)<br>
+[telegram](https://t.me/ali77gha)<br>
+[mail](mailto:alighahremani1377@gmail.com)<br>
+
+my personal website: [ali77gh.ir](ali77gh.ir)
+
+
+# Open source apps
+
+| Name     | Website                             | github         | note |
+| -------- | ----------------------------------- | -------------  | ---- |
+| Unitools | [unitools.ir](https://unitools.ir/) | [link](https://github.com/unitools-apps/UniTools-android)      | tools for university students |
+| Hrypton  | [hrypton.ir](https://hrypton.ir/)   | [link](https://github.com/ali77gh/Hrypton-droid)      | don't save, access anywhare |
+| LIME     |                                     | [link](https://github.com/ali77gh/LIME)    | Life is managable events (android app for manage daily task and routines and monitor habits|
+
+
+# Open source libs
+| Name                      | github         | note |
+| ------------------------- | -------------  | ---- |
+| AndroidMultiCalendarTools | [link](https://github.com/hooshkar/AndroidMultiCalendarTools)      | android date tools and date picker for tree calendar "Jalali" and "Hijri" and "Gregorian"  |
+| EasyDataAndroid           | [link](https://github.com/ali77gh/EasyDataAndroid)      | all you need for working with files and database focused on being easy to use  |
+
+
+# Teching 
+making podcast and videocast at [internplusplus.ir](internplusplus.ir)
