@@ -29,5 +29,5 @@ my personal website: [ali77gh.ir](ali77gh.ir)
 | EasyDataAndroid           | [link](https://github.com/ali77gh/EasyDataAndroid)      | all you need for working with files and database focused on being easy to use  |
 
 
-# Teching 
+# Teaching 
 making podcast and videocast at [internplusplus.ir](internplusplus.ir)
