@@ -1,6 +1,6 @@
 # basic info
 
-a random android developer that is also intrested with back-end (node js) <br>
+A random android developer that is also intrested with back-end (node js) <br>
 and also free software fan and linux user.
 
 
@@ -10,7 +10,7 @@ and also free software fan and linux user.
 [telegram](https://t.me/ali77gha)<br>
 [mail](mailto:alighahremani1377@gmail.com)<br>
 
-my personal website: [ali77gh.ir](ali77gh.ir)
+My personal website: [ali77gh.ir](https://ali77gh.ir)
 
 
 # Open source apps
@@ -30,4 +30,4 @@ my personal website: [ali77gh.ir](ali77gh.ir)
 
 
 # Teaching 
-making podcast and videocast at [internplusplus.ir](internplusplus.ir)
+Making podcast and videocast at [internplusplus.ir](https://internplusplus.ir)
