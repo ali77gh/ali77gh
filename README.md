@@ -1,7 +1,7 @@
-# basic info
+# Basic info
 
-A random android developer that is also intrested with back-end (node js) <br>
-and also free software fan and linux user.
+A random software developer that has no fear to write code in new languages and framworks <br>
+And im using linux BTW.
 
 
 # Contact
