@@ -1,6 +1,6 @@
 # Basic info
 
-A random software developer that has no fear to write code in new languages and framworks <br>
+A random software developer that has no fear to write code in new languages and frameworks <br>
 And im using linux BTW.
 
 
