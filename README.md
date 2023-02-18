@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Ghahremani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A General Software Developer that has no fear to learn and code in new language or framework</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali77gh&label=Profile%20views&color=0e75b6&style=flat" alt="ali77gh" /> </p>
 
