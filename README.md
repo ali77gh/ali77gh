@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali77gh" alt="ali77gh" /></a> </p>
 
-- 🔭 I’m currently working on [Telescope.dart](https://github.com/ali77gh/Telescope)
+- 🔭 I’m currently working on [Chap](https://github.com/ali77gh/Chap)
 
-- 🌱 I’m currently learning **Rust, Rocket, Yew**
+- 🌱 I’m currently learning **Rust, Axum, Dioxus**
 
 - 👯 I’m looking to collaborate on **Rust Projects**
 
 - 📝 I regularly write articles on [https://virgool.io/@ali77gh](https://virgool.io/@ali77gh)
 
-- 💬 Ask me about **Android, Kotlin, Flutter**
+- 💬 Ask me about **Android, Kotlin, Flutter, Rust**
 
 - 📫 How to reach me **alighahremani1377@gmail.com**
 
-- ⚡ Fun fact **FOSS FAN.**
+- ⚡ Fun fact **I know 8 programming langugages some how (should I count [Chap](https://github.com/ali77gh/Chap)?).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
