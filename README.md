@@ -34,15 +34,18 @@
   <summary>Team Works</summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=persian-tools&repo=rust-persian-tools&theme=tokyonight)](https://github.com/persian-tools/rust-persian-tools)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali77gh&repo=language_performance_prime_algorithm&theme=tokyonight)](https://github.com/ali77gh/language_performance_prime_algorithm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali77gh&repo=PersianFontDotMatris&theme=tokyonight)](https://github.com/ali77gh/PersianFontDotMatris)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali77gh&repo=GNM-desktop&theme=tokyonight)](https://github.com/ali77gh/GNM-desktop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pishik-Games&repo=DanglingSpaceman&theme=tokyonight)](https://github.com/Pishik-Games/DanglingSpaceman)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pishik-Games&repo=RootsOfRage&theme=tokyonight)](https://github.com/Pishik-Games/RootsOfRage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pishik-Games&repo=PeaceClown&theme=tokyonight)](https://github.com/Pishik-Games/PeaceClown)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali77gh&repo=language_performance_prime_algorithm&theme=tokyonight)](https://github.com/ali77gh/language_performance_prime_algorithm)
 
 
 </details>
 
 <details>
-  <summary>PRs</summary>
+  <summary>Pull Requests</summary>
 
 | Repo | Change |
 |------|--------|
@@ -59,13 +62,3 @@
 
 
 </details>
-
-<details>
-  <summary>GameDev</summary>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pishik-Games&repo=DanglingSpaceman&theme=tokyonight)](https://github.com/Pishik-Games/DanglingSpaceman)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pishik-Games&repo=RootsOfRage&theme=tokyonight)](https://github.com/Pishik-Games/RootsOfRage)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pishik-Games&repo=PeaceClown&theme=tokyonight)](https://github.com/Pishik-Games/PeaceClown)
-
-</details>
-
