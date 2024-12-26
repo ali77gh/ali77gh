@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali77gh&label=Profile%20views&color=0e75b6&style=flat" alt="ali77gh" /> </p>
 
-Ranking in Iran based on commits:
-[![committers.top badge ](https://user-badge.committers.top/iran/ali77gh.svg)](https://user-badge.committers.top/iran/ali77gh)
 
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ali77gh&hide=css,html,shaderlab,cmake&theme=tokyonight&langs_count=6&layout=donut-vertical" alt="ali77gh" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ali77gh&hide=css,html,shaderlab,cmake&theme=tokyonight&langs_count=6&layout=donut" alt="ali77gh" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ali77gh&show_icons=true&theme=tokyonight&show=prs_merged,prs_merged_percentage&rank_icon=percentile&include_all_commits=true" alt="ali77gh" /></p>
 
@@ -36,9 +34,9 @@ Ranking in Iran based on commits:
   <summary>Team Works</summary>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=persian-tools&repo=rust-persian-tools&theme=tokyonight)](https://github.com/persian-tools/rust-persian-tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali77gh&repo=language_performance_prime_algorithm&theme=tokyonight)](https://github.com/ali77gh/language_performance_prime_algorithm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali77gh&repo=PersianFontDotMatris&theme=tokyonight)](https://github.com/ali77gh/PersianFontDotMatris)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali77gh&repo=GNM-desktop&theme=tokyonight)](https://github.com/ali77gh/GNM-desktop)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali77gh&repo=language_performance_prime_algorithm&theme=tokyonight)](https://github.com/ali77gh/language_performance_prime_algorithm)
 
 
 </details>
