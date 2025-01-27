@@ -47,18 +47,18 @@
 <details>
   <summary>Pull Requests</summary>
 
-| Repo | Change |
-|------|--------|
-| [Dioxus](https://github.com/DioxusLabs/dioxus-template/pull/35) | Bug fix (router problem) |
-| [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust/pull/831) | RGB to CMYK 
-| [sableangle/UnityHTTPServer](https://github.com/sableangle/UnityHTTPServer/pull/8) | Bug fix
-| [alirezasariri78](https://github.com/alirezasariri78/rs-abbreviation-number/pull/1) | Feature + Improve API
-| [Dioxus](https://github.com/DioxusLabs/dioxus-template/pull/36/) | Bug fix (git miss-config) |
-| [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust/pull/830) | Length conversion |
-| [alirezasariri78](https://github.com/alirezasariri78/DiskAnalyzer/pull/15/) | Bug fix
-| [FatulM/shamsi_date](https://github.com/FatulM/shamsi_date/pull/24/) | Improve API
-| [tokio](https://github.com/tokio-rs/tokio/pull/6530) | Adding fs::walk() to tokio (rejected but was fun)
-| [alirezasariri78](https://github.com/alirezasariri78/rs-abbreviation-number/pull/8/) | Style fix
+| Repo | Change | Language |
+|------|--------|----------|
+| [Dioxus](https://github.com/DioxusLabs/dioxus-template/pull/35) | Bug fix (router problem) | Rust |
+| [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust/pull/831) | RGB to CMYK | Rust |
+| [sableangle/UnityHTTPServer](https://github.com/sableangle/UnityHTTPServer/pull/8) | Bug fix | C# |
+| [alirezasariri78](https://github.com/alirezasariri78/rs-abbreviation-number/pull/1) | Feature + Improve API | Rust |
+| [Dioxus](https://github.com/DioxusLabs/dioxus-template/pull/36/) | Bug fix (git miss-config) | Rust |
+| [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust/pull/830) | Length conversion | Rust |
+| [alirezasariri78](https://github.com/alirezasariri78/DiskAnalyzer/pull/15/) | Bug fix | Rust |
+| [FatulM/shamsi_date](https://github.com/FatulM/shamsi_date/pull/24/) | Improve API | Dart |
+| [tokio](https://github.com/tokio-rs/tokio/pull/6530) | Adding fs::walk() to tokio (rejected but was fun) | Rust |
+| [alirezasariri78](https://github.com/alirezasariri78/rs-abbreviation-number/pull/8/) | Style fix | Rust
 
 
 </details>
