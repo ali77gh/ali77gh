@@ -39,8 +39,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pishik-Games&repo=DanglingSpaceman&theme=tokyonight)](https://github.com/Pishik-Games/DanglingSpaceman)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pishik-Games&repo=RootsOfRage&theme=tokyonight)](https://github.com/Pishik-Games/RootsOfRage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pishik-Games&repo=PeaceClown&theme=tokyonight)](https://github.com/Pishik-Games/PeaceClown)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pishik-Games&repo=GGJ2025&theme=tokyonight)](https://github.com/Pishik-Games/GGJ2025)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali77gh&repo=language_performance_prime_algorithm&theme=tokyonight)](https://github.com/ali77gh/language_performance_prime_algorithm)
-
 
 </details>
 
