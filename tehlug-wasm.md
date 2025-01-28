@@ -1,7 +1,7 @@
 
 [Ali on X](https://x.com/ali77gha)
 
-[Ali on Linkedin]([https://x.com/ali77gha](https://www.linkedin.com/in/ali77gh/))
+[Ali on Linkedin](https://www.linkedin.com/in/ali77gh/)
 
 [WASM IO Youtube](https://www.youtube.com/@wasmio)
 
