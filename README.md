@@ -12,8 +12,8 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ali77gh&column=5&theme=nord&margin-w=15&margin-h=15&title=MultiLanguage,Stars,Followers,Commits,PullRequest"/>
     <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm3714hag07660clc0xnxeypc"><img width=110  src="https://assets.holopin.io/hf2024levels/level4-sloth-code-tumbler-robe-witch-moon.webp" alt="click to open holopin" /> </a>
+    <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgzhxgwk003hl704qzwhjw81"><img width=110  src="https://assets.holopin.io/hf2025levels/lvl4-astronaut.webp" alt="click to open holopin" /> </a>
 </p>
-
 
 <details>
   <summary>Solo Projects</summary>
