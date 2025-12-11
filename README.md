@@ -15,8 +15,8 @@
     <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgzhxgwk003hl704qzwhjw81"><img width=110  src="https://assets.holopin.io/hf2025levels/lvl4-astronaut.webp" alt="click to open holopin" /> </a>
 </p>
 
-<details>
-  <summary>Solo Projects</summary>
+
+## Solo Projects
 
 <br>
 
@@ -29,10 +29,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali77gh&repo=easydataandroid&theme=tokyonight)](https://github.com/ali77gh/easydataandroid)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hooshkar&repo=AndroidMultiCalendarTools&theme=tokyonight)](https://github.com/ali77gh/easydataandroid)
 
-</details>
 
-<details>
-  <summary>Team Works</summary>
+## Team Works
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=persian-tools&repo=rust-persian-tools&theme=tokyonight)](https://github.com/persian-tools/rust-persian-tools)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali77gh&repo=PersianFontDotMatris&theme=tokyonight)](https://github.com/ali77gh/PersianFontDotMatris)
@@ -43,10 +41,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Pishik-Games&repo=GGJ2025&theme=tokyonight)](https://github.com/Pishik-Games/GGJ2025)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ali77gh&repo=language_performance_prime_algorithm&theme=tokyonight)](https://github.com/ali77gh/language_performance_prime_algorithm)
 
-</details>
 
-<details>
-  <summary>Pull Requests</summary>
+## Pull Requests
 
 | Repo | Change | Language |
 |------|--------|----------|
@@ -59,7 +55,10 @@
 | [alirezasariri78](https://github.com/alirezasariri78/DiskAnalyzer/pull/15/) | Bug fix | Rust |
 | [FatulM/shamsi_date](https://github.com/FatulM/shamsi_date/pull/24/) | Improve API | Dart |
 | [tokio](https://github.com/tokio-rs/tokio/pull/6530) | Adding fs::walk() to tokio (rejected but was fun) | Rust |
-| [alirezasariri78](https://github.com/alirezasariri78/rs-abbreviation-number/pull/8/) | Style fix | Rust
+| [alirezasariri78](https://github.com/alirezasariri78/rs-abbreviation-number/pull/8/) | Style fix | Rust |
+| [bargozin-desktop](https://github.com/403unlocker/bargozin-desktop/pull/35) | improve UX | TypeScript |
+| [bargozin-desktop](https://github.com/403unlocker/bargozin-desktop/pull/34) | Makefile | TypeScript |
+| [DiskAnalyzer](https://github.com/alirezasariri78/DiskAnalyzer/pull/16) | Refactor | Rust |
+| [Catalyst](https://github.com/Soroushsrd/Catalyst/pull/2) | arg parser | Rust |
+| [Catalyst](https://github.com/Soroushsrd/Catalyst/pull/1) | fix error | Rust |
 
-
-</details>
